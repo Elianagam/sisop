@@ -1,0 +1,9 @@
+*.o
+primes
+xargs
+pingpong
+find
+dir1/
+xargs_test.c
+files.txt
+xargs_line.c
